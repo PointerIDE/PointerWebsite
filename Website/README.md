@@ -187,7 +187,7 @@ Create `.env.local` for environment-specific settings:
 
 ```env
 # Site configuration
-NEXT_PUBLIC_SITE_URL=https://pointr.sh
+NEXT_PUBLIC_SITE_URL=https://pointer.f1shy312.com
 NEXT_PUBLIC_DISCORD_INVITE=https://discord.gg/vhgc8THmNk
 NEXT_PUBLIC_GITHUB_URL=https://github.com/PointerIDE/Pointer
 
@@ -382,7 +382,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Pointer Code Editor',
     description: 'Modern development suite with AI assistance',
-    url: 'https://pointr.sh',
+    url: 'https://pointer.f1shy312.com',
     siteName: 'Pointer',
     images: ['/images/og-image.png'],
   },
@@ -426,4 +426,15 @@ This component is part of the Pointer project, licensed under the MIT License.
 
 ---
 
-**[← Back to Main README](../README.md)** | **[Code Editor Component →](../App/README.md)** | **[Discord Bots →](../DiscordBot/README.md)** 
+## PointerIDE repositories
+
+| Repository | Link |
+| --- | --- |
+| Pointer (main IDE) | [github.com/PointerIDE/Pointer](https://github.com/PointerIDE/Pointer) |
+| PointerAssets | [github.com/PointerIDE/PointerAssets](https://github.com/PointerIDE/PointerAssets) |
+| PointerDeprecated | [github.com/PointerIDE/PointerDeprecated](https://github.com/PointerIDE/PointerDeprecated) |
+| PointerDiscordBot | [github.com/PointerIDE/PointerDiscordBot](https://github.com/PointerIDE/PointerDiscordBot) |
+| PointerWebsite | [github.com/PointerIDE/PointerWebsite](https://github.com/PointerIDE/PointerWebsite) |
+
+**Public site:** [pointer.f1shy312.com](https://pointer.f1shy312.com)
+

@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## PointerIDE repositories
+
+This app is part of the **Pointer** marketing site ([pointer.f1shy312.com](https://pointer.f1shy312.com)).
+
+| Repository | Link |
+| --- | --- |
+| Pointer (main IDE) | [github.com/PointerIDE/Pointer](https://github.com/PointerIDE/Pointer) |
+| PointerAssets | [github.com/PointerIDE/PointerAssets](https://github.com/PointerIDE/PointerAssets) |
+| PointerDeprecated | [github.com/PointerIDE/PointerDeprecated](https://github.com/PointerIDE/PointerDeprecated) |
+| PointerDiscordBot | [github.com/PointerIDE/PointerDiscordBot](https://github.com/PointerIDE/PointerDiscordBot) |
+| PointerWebsite | [github.com/PointerIDE/PointerWebsite](https://github.com/PointerIDE/PointerWebsite) |
+

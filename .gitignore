@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+vendor/
+
+# Python (if any scripts exist alongside the site)
+__pycache__/
+**/__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Build / dist
+dist/
+build/
+out/
+.next/
+*.tsbuildinfo
+
+# Caches
+.cache/
+.turbo/
+
+# Testing / coverage
+coverage/
+.pytest_cache/
+
+# Environment and secrets (never commit)
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+secrets/
+.vercel
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+tmp/
+temp/
